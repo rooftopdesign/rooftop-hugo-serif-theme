@@ -13,7 +13,7 @@ title = "Hugo Serif Theme"
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/rooftopdesign-logo-pfade-abstand-1.svg"
     desktop_height = "36px"
     alt = "Serif - A Hugo Business Theme"
 
